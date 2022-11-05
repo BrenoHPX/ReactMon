@@ -1,0 +1,5 @@
+@font-face {
+	font-family: 'pokemonSolid';
+	src: local('polemonSolid'),
+		url(../../fonts/PokemonFont/PokemonSolid.ttf) format('truetype');
+}
